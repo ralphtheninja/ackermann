@@ -1,0 +1,22 @@
+{
+  "name": "ackermann",
+  "version": "0.0.0",
+  "description": "The Ackermann function A(m,n)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js && standard"
+  },
+  "homepage": "https://github.com/ralphtheninja/ackermann",
+  "keywords": [
+    "ackermann",
+    "algorithms",
+    "computability",
+    "recursive"
+  ],
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tape": "^4.6.0"
+  }
+}
