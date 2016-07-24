@@ -1,6 +1,6 @@
 # ackermann [![Build Status](https://travis-ci.org/ralphtheninja/ackermann.svg?branch=master)](https://travis-ci.org/ralphtheninja/ackermann)
 
-The [Ackermann](https://en.wikipedia.org/wiki/Ackermann_function) function. Only for theoretical interest in non primitive recursion. Otherwise completely useless and will kill your program.
+The [Ackermann](https://en.wikipedia.org/wiki/Ackermann_function) function. Only for theoretical interest in non primitive recursion. Otherwise completely useless and will kill your program. For more background check out this [Computerphile](https://www.youtube.com/watch?v=i7sm9dzFtEI) episode with Professor Brailsford.
 
 ### Usage
 
